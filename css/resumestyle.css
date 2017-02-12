@@ -1,0 +1,17 @@
+.black-bg {
+	background-color: black;
+}
+.navbar a {
+	color: white;
+	font-family: "Lucida Grande", sans-serif;
+	line-height: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.nav-tabs {
+	border-bottom: none;
+}
+.nav-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 20px;

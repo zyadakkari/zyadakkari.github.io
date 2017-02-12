@@ -1,0 +1,33 @@
+.black-bg {
+	background-color: black;
+}
+.navbar a {
+	color: white;
+	font-family: "Lucida Grande", sans-serif;
+	line-height: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.nav-tabs {
+	border-bottom: none;
+}
+.nav-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 20px;
+}
+.bg-image {
+	background: url("../img/bgpic.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+.contacttext {
+	font-family: "Lucida Grande", sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+}
+.image1 {
+	position: relative;
+	left: 100px;
+	border-radius: 10px;
+}

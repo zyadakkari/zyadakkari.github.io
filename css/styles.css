@@ -1,0 +1,50 @@
+.bg-image {
+	background: url("../img/bgpic.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+.black-bg {
+	background-color: black;
+}
+.navbar a {
+	color: white;
+	font-family: "Lucida Grande", sans-serif;
+	line-height: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.nav-tabs {
+	border-bottom: none;
+}
+.nav-item {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	line-height: 20px;
+}
+.heading {
+	font-family: "Lucida Grande", sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+	position: relative;
+	top: 400px;
+}
+.btn-primary{
+	position: relative;
+	margin-top: 22%;
+	margin-left: 43%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	color: white;
+	background-color: #555555;
+	border-radius: 10px;
+	border: none;
+	background-image: none;
+}
+
+.btn-primary:hover{
+	background-color: white;
+}
+
+
